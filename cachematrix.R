@@ -1,4 +1,6 @@
-# makeCacheMatrix and cacheSolve
+## makeCacheMatrix creates special "matrix" that can have its inverse
+## calculated with cacheSolve.
+## caching with cacheSolve will help in performance in later calculations
 
 ## makeCacheMatrix creates a special "matrix", which is really a list containing a function to
 ## set the value of the matrix
